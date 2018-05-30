@@ -1,0 +1,7 @@
+com\wx\auth\reponsitory\UserReponsitory.class
+com\wx\auth\model\SessionKey$SessionKeyBuilder.class
+com\wx\auth\model\User.class
+com\wx\auth\BaseModel.class
+com\wx\auth\reponsitory\SessionKeyReponsitory.class
+com\wx\auth\model\SessionKey.class
+com\wx\auth\model\User$UserBuilder.class
